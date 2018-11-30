@@ -25,6 +25,17 @@ h3{
   color: #11999E;
 }
 
+.code-img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.chilli-img{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
 
 .skill-row{
   width: 50%;
